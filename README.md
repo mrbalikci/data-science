@@ -30,6 +30,7 @@ In this repo:
 21. Databases and SQL
 22. MapReduce
 
+will be covered. 
 ### References 
 
 Data Science From Scratch by Joel Grus
