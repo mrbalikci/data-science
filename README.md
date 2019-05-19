@@ -1,4 +1,4 @@
-# A Pathway To Become a Data Scientist 
+# Data Scientist Tools
 
 This repo is designated to have a structure while using Python for Data Science. 
 Some of the work is from the book I used and some of the codes are mine. 
