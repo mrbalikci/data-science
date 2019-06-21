@@ -1,0 +1,40 @@
+pip install cookiecutter
+or 
+conda install cookiecutter
+
+create a new project 
+in working directory
+cookiecutter https://github.com/drivendata/cookiecutter-data-scince
+project name
+repo_name 
+auther name
+description
+license type
+s3 bucket details
+aws profile
+python version
+DONE
+ls 
+see project name
+cd <name>
+tree -L 3 
+Makefile: to run different scripts
+external
+interim
+processed
+raw origina data
+docs
+models model
+notebooks jupyter notebook
+references
+reports final analysis in HTML, pdf etc
+figures pictures figures
+requirements needed packages
+src source code 
+init file conver to python module
+make_dataset 
+feature raw into feature
+models scripts to traind the model to train
+visulization part of the project 
+test env 
+tox automated testing 
